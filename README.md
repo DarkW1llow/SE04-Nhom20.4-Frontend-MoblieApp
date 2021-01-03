@@ -80,6 +80,11 @@
         viết nhiều loại ngôn ngữ native cho từng nền tảng di động. Chúng ta sẽ build được 
         ứng dụng Native đó một cách đa nền tảng (multi-platform) chạy được cả hai hệ sinh thái
         iOS hay Android.
+        
+## Link các project:
+- Backend API: https://github.com/DarkW1llow/SE04-Nhom20.4-Backend-API
+- Front-end (Web admin): https://github.com/DarkW1llow/SE04-Nhom20.4-Frontend-Adminv2
+- React Native: https://github.com/DarkW1llow/SE04-Nhom20.4-Frontend-MoblieApp
     
 ## **Danh sách các chức năng của phần mềm**
     - Đối với web admin:
