@@ -54,6 +54,7 @@
     - Có thể xem thông tin của các hoá đơn đã đặt.
     
     Đối với đối tượng user trên nền ứng dụng điện thoại
+    - Login bằng email, tạo tài khoản mới bằng email
     - Xem, đặt hàng sản phẩm.
     - Xem được thông tin hàng đã đặt thành công.
     - Đang phát triển việc thanh toán.
