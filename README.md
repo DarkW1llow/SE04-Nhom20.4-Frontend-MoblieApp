@@ -55,9 +55,8 @@
     
     Đối với đối tượng user trên nền ứng dụng điện thoại
     - Xem, đặt hàng sản phẩm.
-    - Điền thông tin thanh toán, bao gồm: họ tên, số điện thoại, địa chỉ nhận hàng, ghi chú 
-    (tuỳ chọn).
     - Xem được thông tin hàng đã đặt thành công.
+    - Đang phát triển việc thanh toán.
     
    ### Công nghệ sử dụng
     - Ngôn ngữ lập trình:
