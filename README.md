@@ -57,7 +57,7 @@
     - Login bằng email, tạo tài khoản mới bằng email
     - Xem, đặt hàng sản phẩm.
     - Xem được thông tin hàng đã đặt thành công.
-    - Đang phát triển việc thanh toán.
+    - Đang nghiên cứu phát triển module thanh toán sản phẩm.
     
    ### Công nghệ sử dụng
     - Ngôn ngữ lập trình:
@@ -102,14 +102,13 @@
         
     - Đối với ứng dụng di động:
         1. Hiển thị danh sách sản phẩm:
-            * Sau khi đăng nhập thành công, danh sách về các sản phẩm được hiển thị, 
+            * Sau khi đăng nhập thành công, danh sách về các sản phẩm được hiển thị
         2. Hiển thị thông tin chi tiết sản phẩm:
-            * Chi tiết sản phẩm bao gồm tên, xuất xứ, giống , nguồn gốc xuất xứ, giá tiền, ...
+            * Chi tiết sản phẩm bao gồm tên, giá tiền, mô tả sản phẩm...
         3. Thông tin thanh toán:
-            * KH chọn mua sản phẩm, nhập các thông tin các nhân bao gồm tên, địa chỉ, số điện thoại,
-            để tiến hành thanh toán.
-            * Xác nhận mua thành công, hiển thị lịch sử mua hàng cho người dùng. 
-        4. Có thể tiếp tục mua mặt hàng khác sau khi mua xong
+            * Xác nhận thêm vào giỏ hàng (add to card)
+            * Xem các sản phẩm mình đã mua
+        4. Có thể tiếp tục mua mặt hàng khác sau khi đặt xong 1 mặt hàng bất kì
 
 ## **Kết quả đạt được**
     - Website admin đã đáp ứng được yêu cầu cơ bản của người dùng với các chức năng: hiển thị thông tin 
